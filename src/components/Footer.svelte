@@ -30,9 +30,6 @@
       <div
         class="flex items-center justify-center text-sm text-medium-gray w-full"
       >
-        <div class="w-full text-center ">
-          &copy; {year} - All rights reserved
-        </div>
       </div>
     </div>
   </div>
