@@ -3,6 +3,8 @@ Frontend app to test out Svelte, in this case I made this for David / Hollywoodg
 
 Unfortenantly machine broke after 1 day xD so never was able to actually make the complete app around automated live games.
 
+You can test this casino UI app at [http://hollywood-sicbo.vercel.app/](http://hollywood-sicbo.vercel.app/)
+
 ## Check page for more releases
 Unfortenantly due to pissing off [Softswiss.com](https://softswiss.com) this project never seen daylight, however the idea I've noted down below and maybe someone else can pick this up.
 
